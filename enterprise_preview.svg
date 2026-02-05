@@ -1,0 +1,25 @@
+<svg width="800" height="450" viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg">
+    <rect width="800" height="450" fill="#0f0f13"/>
+    
+    <!-- Sidebar -->
+    <rect x="0" y="0" width="200" height="450" fill="#1A1A23"/>
+    <rect x="20" y="40" width="120" height="20" rx="4" fill="#00e5ff" fill-opacity="0.2"/>
+    <rect x="20" y="100" width="160" height="12" rx="2" fill="#333"/>
+    <rect x="20" y="130" width="160" height="12" rx="2" fill="#333"/>
+    <rect x="20" y="160" width="160" height="12" rx="2" fill="#333"/>
+    
+    <!-- Topbar -->
+    <rect x="200" y="0" width="600" height="60" fill="#252530"/>
+    
+    <!-- Content Cards -->
+    <rect x="240" y="100" width="160" height="100" rx="8" fill="#1E1E2A" stroke="#00e5ff" stroke-opacity="0.3" stroke-width="2"/>
+    <rect x="440" y="100" width="160" height="100" rx="8" fill="#1E1E2A"/>
+    <rect x="640" y="100" width="120" height="100" rx="8" fill="#1E1E2A"/>
+    
+    <!-- Chart Area -->
+    <rect x="240" y="240" width="520" height="180" rx="8" fill="#1E1E2A"/>
+    <polyline points="280,380 340,320 400,350 460,290 520,310 580,260 640,300" fill="none" stroke="#00e5ff" stroke-width="3"/>
+    
+    <!-- Overlay Text -->
+    <text x="500" y="225" font-family="Arial" font-size="24" fill="#00e5ff" text-anchor="middle" letter-spacing="2">DASHBOARD</text>
+</svg>
